@@ -50,7 +50,7 @@ This isn't another LLM chatbot. This is the real-time merging of **player imagin
 
 ## 🧭 Phase One Roadmap: MVP Build
 
-### ✅ Week 1: Skeleton + Sim Stream
+### ✅ PART 1: Skeleton + Sim Stream
 
 - [ ] Set up repo & structure
 - [ ] Simulated 360° stream (recording okay)
@@ -59,7 +59,7 @@ This isn't another LLM chatbot. This is the real-time merging of **player imagin
 - [ ] ComfyUI pipeline accepts input > generates frame
 - [ ] Re-output as Twitch-compatible stream
 
-### 🧪 Week 2: World Feedback Loop
+### 🧪 PART 2: World Feedback Loop
 
 - [ ] Basic environmental logic (rain, sun, shift)
 - [ ] Hook chat intensity (voting system) to event triggers
