@@ -15,6 +15,6 @@ All branding, naming conventions (including Ashveil), and all associated creativ
 
 Any pitch materials, documents, demos, or prototype software developed by Ashley Gray or under Ashley’s creative direction.
 
-By viewing, discussing, or interacting with this concept without a formal agreement, you acknowledge that no rights are granted or transferred, and that this information is shared solely for evaluation purposes under an implied NDA and confidentiality clause.
+By viewing, discussing, or interacting with this concept without a formal agreement, you acknowledge that no rights are granted or transferred.
 
 Unauthorized reproduction, implementation, or derivative use of the concept or associated materials is strictly prohibited without the express written consent of Ashley Dorian Gray Hawkins.
