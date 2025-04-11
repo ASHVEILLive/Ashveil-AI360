@@ -1,0 +1,103 @@
+# Ashveil: Real-Time Interactive AI Worlds Powered by 360° Live Video
+
+**Creator**: Ashley Gray (Dorian Ashley Gray Hawkins)  
+**Date**: April 11, 2025
+
+---
+
+## 💡 Executive Summary
+
+Ashveil is a revolutionary entertainment platform that transforms 360° live video streams into real-time, AI-reactive virtual worlds. Viewers on Twitch or other platforms can interact directly with the environment, triggering in-world events, weather changes, mood shifts, and more — turning passive viewership into interactive gameplay.
+
+This project merges AI generation, live streaming, and immersive spatial video into a unified experience — where the audience literally shapes the world as it happens.
+
+---
+
+## 🔧 The Core Idea
+
+Imagine walking through a real forest on stream. Someone types `!storm` in Twitch chat — and the scene begins to darken, the wind howls, and thunder rolls in. The world changes — not through cheap overlays, but through AI-driven transformation that mirrors the emotion of the crowd.
+
+Ashveil is a modular system that overlays real-time AI models on 360° livestreams, transforming them into surreal, narrative-rich, interactive experiences.
+
+---
+
+## 🧠 How It Works
+
+**Inputs:**
+- 360° Live Camera Feed (e.g., Insta360, Ricoh Theta)
+- Twitch Chat Commands (`!spawn`, `!darken`, etc)
+- Optional: JSON/WebSocket API inputs
+
+**Engine:**
+- Live scene-to-AI overlay pipeline
+- AI model triggers (Stable Diffusion, LLMs, etc.)
+- Real-time processing of user interaction
+
+**Outputs:**
+- Live visual stream (Twitch, YouTube, etc.)
+- Optional Unity or Unreal rendering integration
+- Narrative and audio event scripting
+
+---
+
+## 🧩 Proposed Technology Stack
+
+- **Live Video**: Insta360 RTMP, OBS, Ricoh, or YouTube Live input
+- **AI Engine**: Stable Diffusion, ComfyUI, NVIDIA Broadcast SDK
+- **Interaction Layer**: Twitch IRC API, PubSub for chat parsing
+- **Rendering Layer**: Unity/Unreal optional for enhanced versions
+- **Command Processing**: OpenAI/GPT for natural language -> actions
+- **Middleware**: Python/Node.js for pipeline logic
+
+---
+
+## 🎮 Use Cases
+
+- **Twitch AI Game Shows** — The chat controls a surreal narrative in real time
+- **IRL Stream Evolution** — A walk through the city morphs into fantasy landscapes
+- **Educational Journeys** — Turn historical walkthroughs into cinematic adventures
+- **Live Concerts & Events** — Audience triggers pyrotechnics, visual FX, mood shifts
+
+---
+
+## 🛡️ Intellectual Property Notice
+
+All systems, methods, and architectural designs within this project are intellectual property of **Ashley Gray**. This repository exists to document, timestamp, and protect this innovation.
+
+> No reproduction, repurposing, or re-use of this concept, pipeline, or vision is permitted without express written consent.  
+> This project is protected by a digital paper trail, registered timestamps, and internal verification.  
+
+---
+
+## 💸 Monetization Strategy
+
+- Licensing SDK to streamers, devs, or platforms
+- Custom world commissions or show formats
+- Real-time monetized Twitch commands
+- Creator Tools (as SaaS) or plug-ins
+- Sponsored shows & integrated marketing
+
+---
+
+## 🚀 Roadmap
+
+- [ ] Build Twitch command → event translator (GPT or rules-based)
+- [ ] Set up test 360° camera feed or open source stream
+- [ ] Add AI scene transformation (ComfyUI / SD / filters)
+- [ ] Output modified stream to Twitch
+- [ ] Add gamified voting mechanics for events
+
+---
+
+## 🧭 Vision Statement
+
+> “Ashveil turns spectators into creators. It’s not just a game — it’s a new form of collaborative digital dreaming.”
+
+---
+
+## 📎 Contact
+
+Ashley Gray  
+Ashveil Project  
+[IP Secured – Timestamped April 11, 2025]
+
