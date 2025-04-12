@@ -1,0 +1,40 @@
+# commands.txt - Interactive Twitch Commands for Unity 360 Viewer
+
+# Movement
+rotate left 15        # Rotates the 360 scene left by 15 degrees
+rotate right 15       # Rotates the 360 scene right by 15 degrees
+rotate up 10          # Tilts the 360 scene upward
+rotate down 10        # Tilts the 360 scene downward
+
+# Zooming
+zoom in               # Zooms into the scene
+zoom out              # Zooms out of the scene
+
+# Playback Controls
+pause                 # Pauses any animation or motion
+resume                # Resumes from pause
+
+# Scene Interactions
+highlight object1     # Highlights a specific object
+change color object1 red  # Changes the object's color to red
+trigger effect1       # Triggers a special effect (particle, lighting, etc)
+
+# Scene Management
+start360              # Launches the Unity 360 viewer
+reset                 # Resets the scene orientation
+load scene1           # Loads a predefined scene
+load scene2           # Loads another predefined scene
+
+# AI Commands
+ai suggest effect     # Gets a dynamic effect suggestion from the AI
+ai describe scene     # AI narrates or describes the current scene context
+ai generate trivia    # AI sends a trivia question to the chat
+
+# Utility
+help                  # Lists available commands
+timestamp             # Saves current state for reference/logging
+screenshot            # Triggers Unity to take a screenshot
+
+# Custom Triggers
+party mode            # Activates color shifts, effects, and motion
+flashbang             # Brief whiteout screen effect
